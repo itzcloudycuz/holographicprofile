@@ -209,7 +209,7 @@ p {
 }
 
 .profile {
-    border-radius: 100%;
+    border-radius: 10px;
     width: 40px;
     box-shadow: 0 0 0 1.33px black;
     margin-right: 10px;
